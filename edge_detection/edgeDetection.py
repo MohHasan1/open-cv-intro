@@ -28,5 +28,3 @@ cv.waitKey(0)
 
 # note:
 # There are 3 different algorithms to implement edge detectorv: sobel deratived,laplace operatives, canny edge detector
-
-# 

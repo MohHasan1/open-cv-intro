@@ -2,7 +2,7 @@ import cv2 as cv
 import os
 
 # path
-path = os.path.join(".", "cat1.png")
+path = os.path.join(".", "simple_operations","cat1.png")
 
 # read
 img = cv.imread(path)
